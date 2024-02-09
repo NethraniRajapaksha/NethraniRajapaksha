@@ -14,7 +14,7 @@
 
 ###
 
-<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw35nixzS8Z8MzA2xJZz3YFF&ust=1707552029738000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCOkJPlnYQDFQAAAAAdAAAAABAI"  />
+<img align="right" height="150" src="git clone https://github.com/derradjib76f/T-Theme"  />
 
 ###
 
