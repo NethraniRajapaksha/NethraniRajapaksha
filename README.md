@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nethrani Rajapaksha</h1>
-<h3 align="center">A passionate Undergraduate IT Student at SLIIT</h3>
+<h3 align="center">A passionate Undergraduate SE Student at SLIIT</h3>
 
 - 🌱 I’m currently learning **Java, Python, MERN**
 
@@ -82,7 +82,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://www.youtube.com/channel/uccneudlieociacjhzzh-cqq" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  
   </a>
 </p>
 </div>
