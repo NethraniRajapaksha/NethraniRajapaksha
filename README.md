@@ -15,7 +15,7 @@
 
 ###
 
-<img align="right" height="150" src="https://via.placeholder.com/150" alt="Profile Picture" />
+
 
 ###
 
